@@ -1,0 +1,35 @@
+table.edit {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table.edit th, table.edit td {
+    padding: 10px;
+    text-align: center;
+}
+
+table.edit th {
+    background: #f2f2f2;
+}
+
+table.edit a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 0 5px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align:  center;
+    color: black;
+}
+
+.kembali a{
+    display: block;
+    width: fit-content;
+    margin: 0 auto 20px auto;
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+}
